@@ -90,6 +90,7 @@ function App() {
     setBoard(Array(9).fill(null));
     setXScore(0);
     setOScore(0);
+    setTie(0);
     setXIsPlaying(true);
   };
 
